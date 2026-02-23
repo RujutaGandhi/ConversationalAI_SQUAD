@@ -1,0 +1,9 @@
+{
+  "kpi1_answerable_accuracy": 0.6923076923076923,
+  "kpi1_exact_match": 0.6923076923076923,
+  "kpi1_f1": 0.8325875431757784,
+  "kpi2_abstain_recall_on_unanswerable": 0.8571428571428571,
+  "kpi2_abstain_precision": 0.9375,
+  "answerable_total": 65,
+  "unanswerable_total": 35
+}
